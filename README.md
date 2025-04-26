@@ -1,5 +1,41 @@
 # React + Vite
 
+A React + Vite web application hosted on Netlify, using Netlify Functions for backend APIs and Firebase Firestore for database storage.
+
+#Technologies Used
+React.js (with Vite) — Frontend Framework
+
+Netlify — Hosting and Serverless Functions (APIs)
+
+Firebase Firestore — Database for storing user data
+
+JavaScript — Programming language
+
+#Deployment Details
+
+Frontend Hosting
+Hosted on Netlify.
+
+Build command: npm run build
+
+Publish directory: dist/ (for Vite projects).
+
+Serverless Functions
+Netlify Functions are located inside /netlify/functions/.
+
+#Database
+Firebase Firestore is used to store application data.
+
+  
+
+
+
+
+
+
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
